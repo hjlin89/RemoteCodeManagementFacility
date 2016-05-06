@@ -1,0 +1,15 @@
+//////////////////////////////////////////////////////////////
+// Filename:     Main.cpp
+// Description:  Run and test CAI.cpp
+// Author:       Huijun Lin
+// Project:      Homework#3 CSE 591
+//////////////////////////////////////////////////////////////
+
+#include "CAI.h"
+
+int main()
+{
+	CAI aCAI;
+	aCAI.StartTest();
+	return 0;
+}
